@@ -3,3 +3,4 @@
 "Git連載記事の作業用のリポジトリです。" 
 "Git用ニャ" 
 "sorry is man" 
+"Git連載start" 
